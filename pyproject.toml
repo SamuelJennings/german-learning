@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "german-learning"
+version = "0.1.0"
+description = "German learning guide"
+authors = ["Sam <samuel.scott.jennings@gmail.com>"]
+license = "CC BY 4.0"
+readme = "README.md"
+homepage = "https://github.com/FAIR-DM/fairdm-docs"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fairdm-docs = {git = "https://github.com/FAIR-DM/fairdm-docs"}
+invoke = "^2.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
