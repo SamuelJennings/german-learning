@@ -5,7 +5,8 @@
 :hidden:
 :caption: A2 German
 
-a2/index
+a2/overview
+a2/grammar/index
 ```
 
 ```{toctree}
@@ -13,6 +14,7 @@ a2/index
 :hidden:
 :caption: B1 German
 
+b1/overview
 b1/grammar/index
 
 ```
@@ -23,4 +25,12 @@ b1/grammar/index
 :caption: B2 German
 
 b2/grammar/index
+```
+
+```{toctree}
+:maxdepth: 1
+:hidden:
+:caption: Resources
+
+nebensaetze
 ```

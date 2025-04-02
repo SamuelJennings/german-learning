@@ -1,1 +1,1 @@
-# Konjunktiv II Präsens
+# Konjunktiv II (polite requests, wishes, advice)

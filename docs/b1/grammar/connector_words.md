@@ -1,12 +1,13 @@
-# **Connector Words in German**
+# Connector Words in German
 
 Connector words, also known as linking words or conjunctions, are essential for creating complex sentences and expressing logical relationships between ideas. They help in structuring speech and writing, making communication more fluid and precise. In German, connector words can belong to different categories, each with specific grammatical rules.
 
-## **Types of Connector Words in German**
 
-### **1. Coordinating Conjunctions (Koordinierende Konjunktionen)**
+## Connecting two independent clauses
 
-These conjunctions connect two independent clauses without changing word order. The verb stays in its normal second position.
+Indpendent clauses are sentences that make perfect sense on their own without requiring further context. We can connect two independent clauses in order to express a relationship between them. When connecting two main clauses, we use **coordinating conjunctions**. 
+
+These connector types **do not affect word order** in the sentence. The verb remains in the second position in the main clause, and the second clause follows the first one directly.
 
 **Common Coordinating Conjunctions:**
 
@@ -16,13 +17,9 @@ These conjunctions connect two independent clauses without changing word order. 
 - **denn** (*because*) → Ich bleibe zu Hause, **denn** ich bin krank. (*I stay home because I am sick.*)
 - **sondern** (*but rather*) → Er ist nicht Lehrer, **sondern** Arzt. (*He is not a teacher but rather a doctor.*)
 
-::Note
-
-Coordinating conjunctions do **not** affect word order.
-
 ---
 
-### **2. Subordinating Conjunctions (Subjunktionen)**
+## **2. Subordinating Conjunctions (Subjunktionen)**
 
 These introduce subordinate clauses, which depend on the main clause. In German, the conjugated verb always moves to the end of the subordinate clause.
 

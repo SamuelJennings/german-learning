@@ -1,140 +1,92 @@
 # Grammar
 
-## **Verbs and Their Characteristics**
+## Grammatical Categories
 
-### **Subjunctive II (Konjunktiv II)**
+### Tenses
 
-- **Subjunctive II with modal verbs** – *(medium)*  
-- **Subjunctive II – unreal conditional sentences** – *(medium)*  
+- Präteritum (Simple past) – *(medium)*
+- Plusquamperfekt (Past perfect) – *(low)*
+- Futur I (Future I) – *(low)*
 
-### **Tenses**
+### Cases
 
-- **Simple past (Präteritum)** – *(medium)*
-- **Past perfect (Plusquamperfekt)** – *(low)*
-- **Future I (Futur I)** – *(low)*
+- Genitive case – *(low)* (rare in spoken language, often replaced by *von + Dativ*)  
 
-### **Passive Voice**
+### Moods
 
-- **Passive voice (present, past, and perfect)** – *(low)*
-- **Passive with modal verbs** – *(low)*
+- Konjunktiv II with modal verbs – *(medium)*  
+- Konjunktiv II – unreal conditional sentences – *(medium)*  
 
-### **Special Verbs and Constructions**
+### Voices
 
-- **Infinitive with *zu*** – *(high)*  
-- **The verb *lassen*** – *(high)*
-- **Nicht, kein, nur* + *brauchen* + *zu*** – *(medium)*  
-- **Verbs with prepositions and subordinate clauses** – *(high)*
+- Passive voice (present, past, and perfect) – *(low)*
+- Passive with modal verbs – *(low)*
 
-## **Sentence Structure and Subordinate Clauses**
 
-### **Subordinate Clauses**
+## Sentence Building
 
-- **Subordinate clauses with *obwohl*** – *(high)*  
-- **Subordinate clauses with *da*** – *(medium)*  
-- **Temporal subordinate clauses: *bevor, nachdem, seit, …*** – *(high)*  
+### Nebensätze (Subordinate Clauses)
 
-### **Relative Clauses**
+- with *obwohl* – *(high)*  
+- with *da* – *(medium)*  
+- Temporal subordinates: *bevor, nachdem, seit, …* – *(high)*  
 
-- **Relative clauses: Relative pronouns in the dative case and with prepositions** – *(medium)*  
-- **Relative pronouns: *was* and *wo*** – *(medium)*  
+### Relativsätze (Relative Clauses)
 
-### **Logical Connections**
+- Relative clauses: Relative pronouns in the dative case and with prepositions – *(medium)*  
+- Relative pronouns: *was* and *wo* – *(medium)*  
 
-- **Sentences with *je … desto*** – *(medium)*  
-- **Two-part connectors** – *(high)*
-- **Expressing consequences: *deshalb, darum, deswegen, so … dass, sodass.*** – *(high)*
+### Logical Connections
 
-## **Word Types and Declensions**
+- Two-part connectors – *(high)*
+- Expressing consequences: *deshalb, darum, deswegen, so … dass, sodass.* – *(high)*
 
-### **Nouns and Articles**
+## Word Types and Declensions
 
-- **Genitive case** – *(low)* (rare in spoken language, often replaced by *von + Dativ*)  
-- **n-declension** – *(medium)* (important for accuracy but not crucial for basic communication)  
-- **Article words as pronouns: *einer, keiner, meiner, …*** – *(medium)*  
-- **Adjectives as nouns** – *(medium)*  
+### Verbs
 
-### **Adjectives**
+- The verb *lassen* – *(high)*
 
-- **Adjective declension without articles** – *(medium)*  
-- **Comparative and superlative before nouns** – *(high)*  
-- **Participle I as an adjective** – *(low)* (mostly written and formal)  
-- **Participle II as an adjective** – *(medium)*  
+### Nouns and Articles
 
-### **Pronouns and Adverbs**
+- n-declension – *(medium)* (important for accuracy but not crucial for basic communication)  
+- Article words as pronouns: *einer, keiner, meiner, …* – *(medium)*  
 
-- **Reflexive pronouns in accusative and dative** – *(high)*  
-- **Pronominal adverbs: *dafür, darauf, …*** – *(medium)*  
+### Adjectives
 
-## **Prepositions**
+- Comparative and superlative before nouns – *(high)*  
+- Adjective declension without articles – *(medium)*  
+- Adjectives as nouns – *(medium)*  
+- Participle II as an adjective – *(medium)*  
+- Participle I as an adjective – *(low)* (mostly written and formal)  
 
-### **General Prepositions**
+### Pronouns and Adverbs
 
-- **Prepositions: *wegen, trotz*** – *(medium)*  
-- **Prepositions with genitive: *innerhalb, außerhalb*** – *(low)* (mostly formal and written)  
+- Reflexive pronouns in accusative and dative – *(high)*  
+- Pronominal adverbs: *dafür, darauf, …* – *(medium)*  
 
-### **Temporal Prepositions**
+### Prepositions
 
-- **vor, nach, während** – *(high)*  
+- Temporal prepositions: vor, nach, während – *(high)*  
+- Prepositions: *wegen, trotz* – *(medium)*  
+- Prepositions with genitive: *innerhalb, außerhalb* – *(low)* (mostly formal and written)  
+- aus + material – *(medium)*  
 
-### **Materials**
+## Special Constructions
 
-- **aus + material** – *(medium)*  
+- Infinitive with *zu* – *(high)*  
+- Nicht, kein, nur* + *brauchen* + *zu* – *(medium)*  
+- Sentences with *je … desto* – *(medium)*  
 
-## **Meaning and Logic in a Sentence**
+## Miscellaneous
 
-- **Position of *nicht* in a sentence** – *(high)* (essential for correct negation)  
+- Position of *nicht* in a sentence – *(high)* (essential for correct negation)  
+- Verbs with prepositions and subordinate clauses – *(high)*
 
-## All topics
 
-- Infinitiv mit zu
-- Das Verb lassen
+<!-- ## Priority Summary
 
-- Nebensatz mit obwohl
-- Genitiv
-- Praepositionen: wegen, trotz
-
-- Praeteritum
-- Temporale praepositionen: vor, nach, waehrend
-- Folgen ausdrucken: deshalb, darum, deswegen, so ... dass, sodass.
-
-- Konjunktiv II mit Modalverben
-- Konjunktiv II - irreale Bedingungsatz
-- Promoninaladverbiens: dafur, darauf, ...
-- Verben mit Praepositionen und Nebensatz
-
-- Nebensatz mit "da"
-- Komparativ und Superlativ vor Substantivenen
-- n-Deklination
-- aus + Material
-
-- Futur I
-- Relativsatze: Relativ pronomen im Dativ un mi Praeposition
-
-- Plusquamperfekt
-- temporale Nebensatze: bevor, nachdem, seit, ...
-
-- Reflexivpronomen im Akkusativ + Dativ
-- Nicht, kein, nu + brauchen + zu
-- Zweiteilige Konnektoren
-
-- Adjektivdeklination ohne Artikel
-- Stellung von "nicht" im Satz
-
-- Passiv Stimme (Praesens, Praeteritum un Perfekt)
-- Passiv mit Modalverben
-- Praepositionen mit Genitiv: innerhalb, ausserhalb
-
-- Artikelworter als Pronomen: einer, keiner, meiner, ..
-- Adjektive als Substantive
-- Relativpronomen: "was" und "wo"
-
-- Satze mit "je ... desto"
-- Partizip II als Adjektiv
-- Partizip I als Adjektiv
-
-## Priority Summary
-
-✅ **Learn First (High Priority)**
+✅ Learn First (High Priority)
 
 - Konjunktiv II Präsens (hypotheticals & politeness)
 - Weil & denn (causality)
@@ -144,7 +96,7 @@
 - Trennbare & untrennbare Verben
 - Relativsätze im Nominativ & Akkusativ
 
-⚠️ **Learn Next (Medium Priority)**
+⚠️ Learn Next (Medium Priority)
 
 - Passiv Präsens
 - Adjektivdeklination mit Nullartikel
@@ -153,19 +105,20 @@
 - Indirekte Fragen
 - Doppelte Konjunktionen (nicht nur… sondern auch…)
 
-⛔ **Learn Last (Low Priority)**
+⛔ Learn Last (Low Priority)
 
 - Passiv mit Modalverben
 - Konjunktiv I für indirekte Rede
 - Relativsätze mit Präpositionen
-- Nominalstil (Verb → Noun conversion)
+- Nominalstil (Verb → Noun conversion) -->
 
-<!-- high_priority -->
-<!-- medium_priority -->
-<!-- low_priority -->
 ```{toctree}
 :maxdepth: 2
 
+grammatical_categories
+sentence_building
+
+connector_words
 expressing_consequences
 konjunktiv_II
 indirekt_rede
