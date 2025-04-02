@@ -7,7 +7,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
@@ -17,10 +17,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v3
 
       - name: Set up the environment
         uses: ./.github/actions/setup-poetry-env
@@ -29,7 +29,7 @@ jobs:
         run: |
           source .venv/bin/activate
           poetry run invoke build
-          
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
