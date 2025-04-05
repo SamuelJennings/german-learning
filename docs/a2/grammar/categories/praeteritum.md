@@ -28,7 +28,6 @@ Modal verbs are one of the most common uses of Präteritum in spoken German. Unl
 - Du **solltest** mehr schlafen. → (You should sleep more.)
 - Sie **durfte** als Kind nicht lange fernsehen. → (She wasn't allowed to watch TV for long as a child.)
 
-
 ## "Sein" and "Haben" in Präteritum
 
 The verbs **sein** (to be) and **haben** (to have) are also frequently used in Präteritum, even in spoken German. Get familiar with their forms in order to speak more naturally while speaking in the past tense.
@@ -47,8 +46,6 @@ The verbs **sein** (to be) and **haben** (to have) are also frequently used in P
 - Er **war** nicht zu Hause. → (He was not at home.)
 - Du **hattest** recht. → (You were right.)
 - Sie **waren** sehr freundlich. → (They were very friendly.)
-
-* * *
 
 ## How to Form Präteritum
 
