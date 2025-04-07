@@ -7,6 +7,7 @@
 
 a2/overview
 a2/grammar/index
+a2/dialogues/index
 ```
 
 ```{toctree}
