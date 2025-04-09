@@ -1,28 +1,5 @@
 # Grammar
 
-## Grammatical Categories
-
-### Tenses
-
-- Präteritum (Simple past) – *(medium)*
-- Plusquamperfekt (Past perfect) – *(low)*
-- Futur I (Future I) – *(low)*
-
-### Cases
-
-- Genitive case – *(low)* (rare in spoken language, often replaced by *von + Dativ*)  
-
-### Moods
-
-- Konjunktiv II with modal verbs – *(medium)*  
-- Konjunktiv II – unreal conditional sentences – *(medium)*  
-
-### Voices
-
-- Passive voice (present, past, and perfect) – *(low)*
-- Passive with modal verbs – *(low)*
-
-
 ## Sentence Building
 
 ### Nebensätze (Subordinate Clauses)
@@ -30,11 +7,6 @@
 - with *obwohl* – *(high)*  
 - with *da* – *(medium)*  
 - Temporal subordinates: *bevor, nachdem, seit, …* – *(high)*  
-
-### Relativsätze (Relative Clauses)
-
-- Relative clauses: Relative pronouns in the dative case and with prepositions – *(medium)*  
-- Relative pronouns: *was* and *wo* – *(medium)*  
 
 ### Logical Connections
 

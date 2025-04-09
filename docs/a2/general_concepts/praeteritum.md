@@ -1,4 +1,13 @@
-# Präteritum (Simple Past)
+<!-- ---
+sd_hide_title: true
+--- -->
+
+# Simple Past (Präteritum)
+
+<!-- ```{article-info}
+:date: Jul 24, 2021
+:read-time: 5 min read
+``` -->
 
 The **Präteritum** (simple past) is one of the main past tenses in German. While it is commonly used in **written** language (stories, reports, and formal writing), in **spoken German**, it is mostly used only for **modal verbs** as well as **sein (to be)** and **haben (to have)**. 
 

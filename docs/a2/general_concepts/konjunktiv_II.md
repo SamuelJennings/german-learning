@@ -1,4 +1,5 @@
-# Konjunktiv II (polite requests, wishes, advice)
+# Polite requests, wishes & advice
+<!-- # Konjunktiv II (polite requests, wishes, advice) -->
 
 The Konjunktiv II is commonly used in German to make polite requests, express wishes, or give advice, particularly when you want to soften your tone or imply a degree of uncertainty or politeness. It’s often employed in situations where the speaker wants to express a desire or a hypothetical scenario. For polite requests, it can be used with modal verbs like könnte (could), würde (would), or möchte (would like), making the request sound more indirect and less commanding.
 

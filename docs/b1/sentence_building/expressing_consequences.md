@@ -1,4 +1,7 @@
 # Expressing consequences
+<!-- - Expressing consequences: *deshalb, darum, deswegen, so … dass, sodass.* – *(high)* -->
+
+
 
 In German, there are several ways to express consequences. The most common ones are: *deshalb, darum, deswegen, so … dass,* and *sodass.* These words and phrases are used to show the cause-and-effect relationship between two events or actions.
 
