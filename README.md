@@ -2,4 +2,8 @@
 
 ## Table of Contents
 
-test
+For markdown formatting/styling guides, see:
+
+sphinx-book-theme
+pydata-sphinx
+sphinx-design
