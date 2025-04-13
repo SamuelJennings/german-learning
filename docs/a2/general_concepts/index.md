@@ -6,7 +6,7 @@
 praeteritum
 konjunktiv_II
 komparativ
-<!-- w_fragen -->
+w_fragen
 <!-- miscellaneous -->
 <!-- werden -->
 
