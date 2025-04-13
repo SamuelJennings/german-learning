@@ -30,7 +30,7 @@ A2-level learners should be able to have **simple conversation on everyday topic
 
 ---
 
-## Listening: Understanding Short, Simple Speech
+## Listening
 
 - Can understand **slow, clear speech** on common topics  
 - Can recognize **key words and familiar phrases**  
@@ -42,7 +42,7 @@ A2-level learners should be able to have **simple conversation on everyday topic
 
 ---
 
-## Reading: Understanding Simple Texts
+## Reading
 
 - Can **read and understand basic texts** (emails, short stories, menus, signs, schedules)  
 - Can understand **simple descriptions of people, places, or events**  
@@ -57,7 +57,7 @@ A2-level learners should be able to have **simple conversation on everyday topic
 
 ---
 
-## Writing: Forming Short, Coherent Sentences
+## Writing
 
 - Can write **simple notes, messages, and personal letters**  
 - Can **describe daily activities and past events** using basic grammar  
@@ -69,7 +69,7 @@ A2-level learners should be able to have **simple conversation on everyday topic
 
 ---
 
-## Grammar & Vocabulary: Using Basic Structures
+## Grammar & Vocabulary
 
 By the end of A2, learners should be able to:
 
