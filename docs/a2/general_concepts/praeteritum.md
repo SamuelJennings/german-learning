@@ -92,8 +92,15 @@ Example with "sehen" (to see):
 
 However, in **spoken German**, strong verbs (except modal verbs and "sein/haben") are usually used in **Perfekt** instead of Präteritum.
 
-### Summary
+## Summary
 
 - ✅ **Always use Präteritum** for **sein, haben, and modal verbs** in both written and spoken German.
 - ✅ **Use weak and strong verbs in Präteritum** primarily in written stories and formal texts.
 - 🚫 **In everyday speech, use Perfekt** for most other verbs.
+
+
+## Practice 
+
+Generate 10 practice sentences in English:
+
+    Generate 10 practice sentences in English that describe past situations using modal verbs like "must," "can," "want," "should," or "may."I want to translate them into German using the Präteritum tense (simple past).bMake sure the sentences: Use a variety of modal verbs; Use first-person, second-person, and third-person subjects; Are suitable for A2-level learners; Focus on everyday life topics like school, travel, work, and hobbies; Do not use complex clauses or rare vocabulary.
