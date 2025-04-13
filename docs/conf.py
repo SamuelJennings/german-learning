@@ -27,12 +27,12 @@ html_last_updated_fmt = "%b %d, %Y"
 # https://sphinx-book-theme.readthedocs.io/en/stable/reference.html
 # https://pydata-sphinx-theme.readthedocs.io/en/latest/user_guide/index.html
 html_theme_options = {
-    "home_page_in_toc": True,
-    "show_prev_next": True,
+    # "home_page_in_toc": True,
+    # "show_prev_next": True,
     "collapse_navbar": True,
 
 }
-myst_title_to_header = True
+myst_title_to_header = False
 
 # Any additional Sphinx extension modules go here
 extensions = [
