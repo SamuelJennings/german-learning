@@ -5,7 +5,7 @@ description = "German learning guide"
 authors = ["Sam <samuel.scott.jennings@gmail.com>"]
 license = "CC BY 4.0"
 readme = "README.md"
-homepage = "https://github.com/FAIR-DM/fairdm-docs"
+homepage = "https://github.com/SamuelJennings/german-learning"
 package-mode = false
 
 [tool.poetry.dependencies]
