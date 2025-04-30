@@ -1,0 +1,81 @@
+.noun {
+    color: blue;
+    font-weight: bold;
+}
+
+.verb {
+    color: green;
+    font-style: italic;
+}
+
+.adj {
+    color: orange;
+}
+
+.adv {
+    color: purple;
+    font-style: italic;
+}
+
+.prep {
+    color: red;
+    text-decoration: underline;
+    font-variant: small-caps;
+}
+
+.pronoun {
+    color: brown;
+    font-style: italic;
+    font-weight: 300;
+}
+
+.conj {
+    color: rgb(105, 28, 28);
+    font-style: italic;
+}
+
+.article {
+    color: goldenrod;
+}
+
+.te {
+    color: teal;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.ka {
+    color: darkviolet;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.mo {
+    color: darkorange;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.lo {
+    color: darkgreen;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.dativ {
+    color: darkred;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.akk {
+    color: darkblue;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.subj {
+    color: darkcyan;
+    font-weight: bold;
+    font-style: italic;
+}

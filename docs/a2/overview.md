@@ -4,90 +4,44 @@
   
 At **A2 level**, learners can **communicate in simple, routine situations** related to everyday life. They can understand and produce **short, basic sentences** and interact in **familiar contexts**.  
 
----
+## Expected Outcomes
 
-## Speaking
+### 📖 Reading & Understanding
 
-A2-level learners should be able to have **simple conversation on everyday topics**. They can:
+- [ ] I can understand short, simple texts such as emails, postcards, menus, and timetables.
+- [ ] I can find specific information in everyday materials (e.g. advertisements, brochures).
+- [ ] I can understand the main idea in simple personal letters and short articles.
 
-- introduce themselves and others  
-- describe people, places, and daily routines  
-- ask and answer simple questions about...
-    - family
-    - shopping
-    - work
-    - hobbies
-- express basic opinions, needs, and preferences  
-- simple phrases for ordering food, making appointments, and asking for directions  
+### 🎧 Listening
 
-🔹 **Examples**
+- [ ] I can understand slow and clear speech on familiar topics like family, shopping, work, or local area.
+- [ ] I can follow short conversations in everyday situations.
+- [ ] I can understand simple announcements (e.g. at the train station or supermarket).
 
-*Ich hätte gern einen Kaffee mit Milch, bitte.*  
-(*I would like a coffee with milk, please.*)  
+### 🗣️ Speaking
 
-*Wo ist die nächste Apotheke?*  
-(*Where is the nearest pharmacy?*)  
+- [ ] I can take part in simple conversations on familiar topics (e.g. hobbies, work, routine).
+- [ ] I can ask and answer simple questions in everyday situations (e.g. buying tickets, ordering food).
+- [ ] I can use simple phrases to describe people, places, and events.
 
----
+### ✍️ Writing
 
-## Listening
+- [ ] I can write short messages, emails, or notes on familiar topics.
+- [ ] I can fill out forms with personal details (e.g. hotel registration, job application).
+- [ ] I can describe daily routines or past experiences in short sentences.
 
-- Can understand **slow, clear speech** on common topics  
-- Can recognize **key words and familiar phrases**  
-- Can grasp the **general meaning of announcements, public transport information, and simple dialogues**  
+### 🔤 Grammar & Accuracy
 
-🔹 **Examples**  
-🎧 *Der nächste Zug nach Berlin fährt um 15:30 Uhr vom Gleis 5 ab.*  
-(*The next train to Berlin departs at 3:30 PM from platform 5.*)  
+- [ ] I can conjugate regular and common irregular verbs in present and perfect tense.
+- [ ] I can correctly use articles and noun cases in simple sentences (nominative, accusative, some dative).
+- [ ] I can form basic questions, negations, and word order in main clauses.
+- [ ] I can use modal verbs like *können*, *müssen*, and *dürfen* in present tense.
 
----
+### 💡 Communication Strategies
 
-## Reading
-
-- Can **read and understand basic texts** (emails, short stories, menus, signs, schedules)  
-- Can understand **simple descriptions of people, places, or events**  
-- Can find **important information** in short messages or advertisements  
-
-🔹 **Examples**  
-📖 *Das Museum ist täglich von 10 bis 18 Uhr geöffnet.*  
-(*The museum is open daily from 10 AM to 6 PM.*)  
-
-📖 *Heute gibt es Spaghetti mit Tomatensoße im Angebot.*  
-(*Today, spaghetti with tomato sauce is on special offer.*)  
-
----
-
-## Writing
-
-- Can write **simple notes, messages, and personal letters**  
-- Can **describe daily activities and past events** using basic grammar  
-- Can write **short, structured texts about personal experiences**  
-
-🔹 **Examples**  
-✍️ *Am Wochenende war ich im Park mit meinen Freunden. Wir haben Fußball gespielt und Eis gegessen.*  
-(*On the weekend, I was in the park with my friends. We played soccer and ate ice cream.*)  
-
----
-
-## Grammar & Vocabulary
-
-By the end of A2, learners should be able to:
-
-- use **basic tenses correctly** (Präsens, Perfekt, Futur I)  
-- form **simple main and subordinate clauses** (weil, aber, oder, und, denn)  
-- use **modal verbs** (können, müssen, wollen, dürfen) in basic contexts  
-- correctly use **Nominativ, Akkusativ, and Dativ cases** in simple sentences  
-- use **common prepositions** (mit, bei, nach, von, zu, über, unter, neben, etc.)  
-- understand and use **basic adjective endings**  
-
-🔹 **Examples**  
-💡 *Ich habe einen neuen Computer gekauft.*  
-(*I bought a new computer.*)  
-
-💡 *Ich gehe mit meiner Schwester ins Kino.*  
-(*I am going to the cinema with my sister.*)  
-
----
+- [ ] I can ask someone to speak more slowly or repeat something.
+- [ ] I can use gestures or known words to explain something if I forget a word.
+- [ ] I can sometimes correct myself when I notice a mistake.
 
 ## Conclusion
 
