@@ -1,39 +1,24 @@
-# Polite requests, wishes & advice
-<!-- # Konjunktiv II (polite requests, wishes, advice) -->
+# Konjunktiv II
 
-The Konjunktiv II is commonly used in German to make polite requests, express wishes, or give advice, particularly when you want to soften your tone or imply a degree of uncertainty or politeness. It’s often employed in situations where the speaker wants to express a desire or a hypothetical scenario. For polite requests, it can be used with modal verbs like könnte (could), würde (would), or möchte (would like), making the request sound more indirect and less commanding.
+```{admonition} Suggested Reading
+:class: seealso
+
+- [Polite requests, wishes, and advice](../concepts/requests_wishes_advice.md)
+```
+
+Konjunktiv II is an extremely useful tool in German, especially when one wants to soften their tone. This helps to make statements, requests, or advice sound more polite and less direct. 
+
+commonly used in German to make polite requests, express wishes, or give advice, particularly when you want to soften your tone or imply a degree of uncertainty or politeness. It’s often employed in situations where the speaker wants to express a desire or a hypothetical scenario. For polite requests, it can be used with modal verbs like könnte (could), würde (would), or möchte (would like), making the request sound more indirect and less commanding.
 
 For example, to politely ask for something, you might say Könnten Sie mir bitte helfen? (Could you please help me?). Here, könnten is the Konjunktiv II form of können (to be able to), which creates a respectful, polite tone. Similarly, for expressing wishes, Ich wünschte, ich hätte mehr Zeit. (I wish I had more time.) uses the Konjunktiv II form of haben (to have). Konjunktiv II also allows speakers to give advice in a softer, more considerate manner: Du solltest mehr Wasser trinken. (You should drink more water.)
 
-## Polite requests (Höfliche Bitten)
+## Forming the Konjunktiv II
+The **Konjunktiv II** is formed from the simple past tense of the verb, often with an umlaut added to the stem vowel. For example:
+- **haben** (to have) → **hatte** (had) → **hätte** (would have)
+- **sein** (to be) → **war** (was) → **wäre** (would be)
+- **können** (can) → **konnte** (could) → **könnte** (could)
+- **werden** (to become) → **wurde** (became) → **würde** (would)
 
-**Konjunktiv II** is an important tool in German for making polite, respectful requests. It helps soften the tone of a sentence, making it sound more indirect and courteous. When making polite requests, **modal verbs** like *könnte* (could), *würde* (would), and *möchte* (would like) are typically used in Konjunktiv II. The sentence structure is often the same as in the indicative, but the verb is conjugated in its Konjunktiv II form.
-
-### Correct Sentence Structure
-
-1. **Subject + Konjunktiv II verb + (Object/Complement)**
-
-    The **verb** in Konjunktiv II (like *könnte*, *würde*) typically comes in the second position, just like in statements. The **subject** of the sentence is followed by the **Konjunktiv II verb**, and then any objects or complements follow.
-2. **Word Order**  
-The word order remains straightforward: the verb comes second, and if there’s a dependent clause, the conjugated verb moves to the end of the sentence.
-
-### Verb Conjugation for Polite Requests
-
-The **Konjunktiv II** form of modal verbs is usually created by adding the appropriate endings to the verb stems. Some examples include:
-
-- *könnte* (could) – from *können*
-- *würde* (would) – from *werden*
-- *möchte* (would like) – from *mögen*
-
-### Key Points:
-
-- **Könnte**: Used for polite requests or offers.
-- **Würde**: Used to express hypothetical actions or for politeness.
-- **Möchte**: Often used for expressing a desire or wish, similar to "would like."
-
-### Examples
-
-Here are some example sentences that illustrate how to use Konjunktiv II to make polite requests:
 
 1. **Könnten Sie mir bitte helfen?**  
 *(Could you please help me?)*

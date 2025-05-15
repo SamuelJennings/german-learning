@@ -11,13 +11,13 @@ html_meta:
 
 
 
-:::{epigraph}
+<!-- :::{epigraph}
 "If you can't explain it simply, you don't understand it well enough."
 
 -- Someone Wise
-:::
+::: -->
 
-I started writing this guidebook as a way to document my own language learning experience and solidify my understanding of the German language. I chose to write it in the style of a guidebook based on the Feynman Technique which involves 4 steps:
+This guidebook began as a way to document my own language learning experience and solidify my understanding of the German language. I chose to write it in the style of a guidebook based on the Feynman Technique which involves 4 steps:
 
 1. **Choose a concept** you want to understand.
 2. **Teach it to a child** (or imagine doing so), using simple language and analogies.
@@ -42,9 +42,8 @@ contributing
 :caption: A2 German
 
 a2/overview
-a2/general_concepts/index
-a2/sentence_building/index
-<!-- a2/grammar/index -->
+a2/grammar/index
+a2/concepts/index
 a2/dialogues/index
 ```
 

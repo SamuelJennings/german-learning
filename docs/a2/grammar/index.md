@@ -2,11 +2,21 @@
 <!-- {bdg-primary}`primary` -->
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 
-verben
-nouns_and_articles
+<!-- miscellaneous -->
 adjektiven
+komparativ
+konjunktiv_II
+konnektoren
+nebensaetze
+nouns_and_articles
 praeposition
-
+praeteritum
+pronomen
+relativsaetze
+verben
+verben_mit_praepositionen
+w_fragen
+werden
 ```

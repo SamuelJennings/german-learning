@@ -50,7 +50,6 @@ comments_config = {
     }
 }
 
-
 # Any additional Sphinx extension modules go here
 extensions = [
     "sphinx.ext.viewcode",

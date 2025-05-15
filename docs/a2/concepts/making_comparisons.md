@@ -1,60 +1,60 @@
-# Comparisons
+# Comparing things
 
-When we talk about *comparing things*, we mean looking at how people, objects, or situations are similar or different in quality, quantity, or degree. In English, we do this in three main ways:
+Making comparisons is a vital aspect of everyday conversations. It allows you to express preferences, highlight differences, and make decisions. Whether in personal or professional settings, comparisons often arise when discussing options, experiences, or opinions (e.g., “This movie is better than the last one” or “I prefer coffee to tea”). Learning how to do this in German will allow you to participate more freely in conversations with German friends and colleagues.
 
-1. **Comparisons of difference** – using forms like *better than*, *more expensive than*, *faster than*, etc.
+We can compare things in three main ways:
+
+1. **Comparisons of difference** – *better than*, *more expensive than*, *faster than*, etc.
 
     - *This car is faster than that one.*
     - *She is more intelligent than her brother.*
 
-2. **Superlatives** – showing something is the *most* or *least* in a group.
+2. **Superlatives** – *the most*, *the least*, *the best*, etc.
 
     - *She is the best student in the class.*
     - *This is the most expensive car in the showroom.*
 
-3. **Statements of equality** – showing that two things are the *same* in some way.
+3. **Statements of equality** – *the same*, *as ... as***, etc.
 
     - *This movie is as good as the book.*
     - *He is as tall as his father.*
 
-These are useful for everyday conversations: choosing between options, expressing opinions, and giving descriptions. In German, we use similar structures with their own specific rules. In the following sections, you’ll learn how to form comparisons, use superlatives, and create statements of equality in a clear and natural way.
+## Comparisons of difference
 
-## Komparativ (Comparative Form)
+We use the German "Komparativ" to compare two things that are differenct. It is used frequently in everyday conversations — whether you're comparing food, people, prices, or experiences. It’s a useful structure to master early!
 
-The Komparativ is used in German to compare two things—just like in English when we say something is *faster*, *smarter*, or *more expensive* **than** something else. It is used all the time in everyday German conversations—whether you're comparing food, people, prices, or experiences. It’s a useful structure to master early!
+To form the German "Komparativ", follow this structure:
 
-To form the Komparativ in German:
+> **{noun}`[Thing A]` {verb}`[Verb]` {adj}`[Adjektiv]` als {noun}`[Thing B]`.**
+
+### Adjective endings
 
 - For most **short adjectives**, add **-er** to the end.
 
-    - *klein* → *kleiner* (small → smaller)
-    - *schnell* → *schneller* (fast → faster)
+    - *klein* → *klein**er*** (small → smaller)
+    - *schnell* → *schnell**er*** (fast → faster)
 
 - If the adjective has an **a, o, or u**, it often gets an **Umlaut (ä, ö, ü)** in the comparative:
 
-    - *kalt* → *kälter* (cold → colder)
-    - *groß* → *größer* (big → bigger)
+    - *kalt* → *k**ä**lter* (cold → colder)
+    - *groß* → *gr**ö**ßer* (big → bigger)
 
-- If the adjective is **long or ends in -el/-er**, just add **-er**, and sometimes drop an 'e':
+- If the adjective is **long or ends in -el/-er**, just add **-er** (and sometimes drop an 'e'):
 
     - *teuer* → *teurer* (expensive → more expensive)
 
-To compare two things, use **"als"** after the Komparativ:
-
-> **[Thing A] ist [comparative adjective] als [Thing B].**
-
 ### Examples
 
-1. **Dieses Handy ist billiger als mein altes.**  
+1. Dieses Handy ist {adj}`billig**er**` als mein altes.  
 *This phone is cheaper than my old one.*  
 
-2. **Im Sommer ist es wärmer als im Winter.**  
+2. **Im Sommer ist es {adj}`w**ä**rm**er**` als im Winter.**  
 *In summer, it’s warmer than in winter.*  
 
-3. **Mein Bruder ist größer als ich.**  
+3. **Mein Bruder ist {adj}`gr**ö**ß**er**` als ich.**  
 *My brother is taller than me.*  
 
-4. **Ich finde Mathe interessanter als Geschichte.**  
+4. **Ich finde Mathe {adj}`interessant**er**` als Geschichte.**  
 *I find math more interesting than history.*  
 
 5. **Du bist schneller als ich im Laufen.**  
@@ -73,42 +73,41 @@ To compare two things, use **"als"** after the Komparativ:
     Generate 10 example sentences in English for someone learning German at an A2 level. The sentences should focus on making comparisons using 'als' in German. The sentences should be simple, clear, and include comparisons such as 'bigger than,' 'faster than,' 'more expensive than,' etc. Each sentence should involve a comparison of two things or people. For example: 'My house is bigger than yours.
 ```
 
-## Superlativ
+## Superlative
 
-The Superlativ is used to say that someone or something has the *most* of a quality — like *the best*, *the fastest*, *the cheapest*, or *the most beautiful*. It’s used when comparing **more than two things** and saying which one is at the top. The Superlativ helps you express strong opinions and describe extremes — something A2 learners start doing more and more in real conversations. Whether you're talking about food, people, or your favorite things, it’s a fun and expressive part of the language!
+The German "Superlativ" is used to say that someone or something has the *most* of a quality — like *the best*, *the fastest*, *the cheapest*, or *the most beautiful*. The "Superlativ" helps you express strong opinions and describe extremes, which is something you will do more and more as an A2 learner,
 
 There are two common ways to form the Superlativ depending on whether the adjective comes before a noun or stands alone. 
 
 
 <!-- ### **A. With a Definite Article (Der/Die/Das) + “-ste(n)”** -->
-**A. Adjective before a noun**
+**1. Adjective before a noun**
 
-> **[Subjekt] ist der/die/das + Adjektiv** **+ -ste/-sten** [Noun]
+> **{noun}`[Thing A]` ist der/die/das + Adjektiv** **+ -ste/-sten** {noun}`[Kategorie]`.
 
-If the adjective comes **before a noun**, then it requires a special ending:
+If the adjective comes before a noun, then it requires a special ending:
 
-- *schnell* → *der schnellste* (the fastest)
-- *klug* → *die klügste* (the smartest – with Umlaut)
-- *Das ist der schnellste Zug.* (That is the fastest train.)
+- *schnell* → *der schnell**ste*** (the fastest)
+- *klug* → *die klüg**ste*** (the smartest – with Umlaut)
+- *Das ist der schnell**ste** Zug.* (That is the fastest train.)
 
-**B. Standalone adjective**
+**2. Standalone adjective**
 
 This is used when there is **no noun** after the adjective:
 
-> **[Subjekt] ist am + Adjektiv + -sten.**
+> **{noun}`[Thing A]` ist am + Adjektiv + -sten.**
 
-- *Er läuft am schnellsten.* (He runs the fastest.)
-- *Das schmeckt am besten.* (That tastes best.)
+- *Er läuft **am** schnell**sten**.* (He runs the fastest.)
+- *Das schmeckt **am** be**sten**.* (That tastes best.)
 
 ```{note}
 
-Some adjectives use **Umlaut** in the Superlativ (just like in Komparativ):
+<!-- Some adjectives use an **Umlaut** in the Superlativ (just like in Komparativ):
 
 - *kalt → am kältesten*
-- *groß → am größten*
+- *groß → am größten* -->
 
-If an adjective ends in **-d, -t, -s, -ß, -sch, -z**, you often add an **extra 'e'** before **-sten**. This generally 
-makes the word a bit easier to pronounce:
+If an adjective ends in **-d, -t, -s, -ß, -sch, -z**, you often add an **extra 'e'** before **-sten**. This generally makes the word a bit easier to pronounce:
 
 - *interessant → am interessantesten*
 - *kalt → am kältesten*
@@ -150,12 +149,11 @@ makes the word a bit easier to pronounce:
 
 When you want to say that two things are the same in some quality — for example, “as fast as,” or “as tasty as” — you use **statements of equality**. In German, this is typically done using the construction **„so … wie“**.
 
+TO form a statement of equality, use the following structure:
 
-### Structure
+> **so + {adj}`[adjective/adverb]` + wie**
 
-> **so + [adjective/adverb] + wie**
-
-This means: **"as [something] as"**
+This means: **"as {adj}`[...]` as"**
 
 ### Examples
 
@@ -205,10 +203,6 @@ Both **"so … wie"** and **"genauso … wie"** are correct and natural. Use *ge
 | **Superlativ** | Das ist das schnell*ste* Auto. / Das Auto ist **am** schnell*sten*. |
 | **Gleichheitsvergleich** | Sie ist genauso klug wie er. |
 
-```{seealso}
-**gleich** (equal), **ähnlich** (similar)
-
-```
 
 ```{admonition} Let's Practice!
 
