@@ -4,7 +4,9 @@ Subordinate clauses (*Nebensätze*) are dependent clauses that provide additiona
 
 Subordinate clauses allow for more complex and nuanced communication. They help express reasons, conditions, time relations, and contradictions in speech and writing. Mastering them is essential for achieving fluency in German.
 
-**Basic Structure:**
+**Basic Structure:**';[
+    p/
+]'
 
 - **Main Clause:** Ich bleibe zu Hause. (*I stay at home.*)
 - **Subordinate Clause:** weil es regnet. (*because it is raining.*)

@@ -2,14 +2,17 @@ import os
 import sys
 from pathlib import Path
 
-import toml
+import tomllib
 
 # add the current directory to sys.path
 
 sys.path.insert(0, os.path.abspath(".")) 
 
 # Project information --------------------------------------
-package_meta = toml.load("../pyproject.toml")["tool"]["poetry"]
+with open("../pyproject.toml", "rb") as f:
+    data = tomllib.load(f)
+
+package_meta = data["tool"]["poetry"]
 project = "German Learning"
 
 current_file_path = Path(__file__).parent.absolute()
