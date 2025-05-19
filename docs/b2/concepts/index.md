@@ -1,4 +1,4 @@
-# General Concepts
+# Concepts
 
 ```{toctree}
 :maxdepth: 1

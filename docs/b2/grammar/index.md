@@ -2,7 +2,7 @@
 
 ## All topics
 
-- Wortstellung im Satz (te-ke-mo-lo)
+- Wortstellung im Satz (te-ka-mo-lo)
 - Negation
 
 - Vergleichsatz mit als, wie und je ... desto/umso
@@ -68,8 +68,7 @@
 ```{toctree}
 :maxdepth: 2
 
-konjunktiv_II
-passiv
-nominalisierung
+tekamolo
+das_wort_es
 
 ```

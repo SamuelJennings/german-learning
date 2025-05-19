@@ -6,12 +6,12 @@ authors = ["Sam <samuel.scott.jennings@gmail.com>"]
 license = "CC BY 4.0"
 readme = "README.md"
 homepage = "https://github.com/SamuelJennings/german-learning"
+package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.11"
 fairdm-docs = {git = "https://github.com/FAIR-DM/fairdm-docs", extras = ["sphinx-book-theme"]}
 invoke = "^2.2.0"
-sphinx-design = "^0.6.1"
 
 
 [build-system]

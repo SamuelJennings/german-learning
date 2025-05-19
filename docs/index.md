@@ -17,14 +17,14 @@ html_meta:
 -- Someone Wise
 ::: -->
 
-This guidebook began as a way to document my own language learning experience and solidify my understanding of the German language. I chose to write it in the style of a guidebook based on the Feynman Technique which involves 4 steps:
+<!-- This guidebook began as a way to document my own language learning experience and solidify my understanding of the German language. I chose to write it in the style of a guidebook based on the Feynman Technique which involves 4 steps:
 
 1. **Choose a concept** you want to understand.
 2. **Teach it to a child** (or imagine doing so), using simple language and analogies.
 3. **Identify gaps** in your explanation—these are the areas where your understanding is weak.
 4. **Go back and study** those weak areas, then refine your explanation.
 
-The idea being that clarity in your own mind is reflected in your ability to communicate clearly. If you rely on jargon or abstract terms, it may be a sign that you haven’t fully grasped the idea yourself.
+The idea being that clarity in your own mind is reflected in your ability to communicate clearly. If you rely on jargon or abstract terms, it may be a sign that you haven’t fully grasped the idea yourself. -->
 
 ```{toctree}
 :maxdepth: 2
@@ -47,19 +47,15 @@ a2/concepts/index
 a2/dialogues/index
 ```
 
-<!-- ```{toctree}
+```{toctree}
 :maxdepth: 1
 :hidden:
 :caption: B1 German
 
 b1/overview
-b1/general_concepts/index
-b1/sentence_building/index
 b1/grammar/index
-b1/dialogues/index
-
+b1/concepts/index
 ```
- -->
 
 ```{toctree}
 :maxdepth: 2
@@ -67,11 +63,9 @@ b1/dialogues/index
 :caption: B2 German
 
 b2/overview
-b2/general_concepts/index
+b2/grammar/index
+b2/concepts/index
 ```
-<!-- b2/sentence_building/index -->
-<!-- b2/grammar/index -->
-<!-- b2/dialogues/index -->
 
 <!-- ```{toctree}
 :maxdepth: 1

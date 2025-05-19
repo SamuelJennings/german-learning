@@ -2,13 +2,7 @@
 
 (**Passiv mit Modalverben**)
 
-* * *
-
-## 1. What is it?
-
-The **passive voice** describes what **happens to the object**, rather than focusing on who is performing the action.
-This is common in **official language, rules, instructions, and workplace communication**. When **modal verbs** (*können,
-müssen, sollen, dürfen, wollen*) are involved, the sentence structure changes compared to basic **passiv** sentences.
+The **passive voice** describes what **happens to the object**, rather than focusing on who is performing the action. This is common in **official language, rules, instructions, and workplace communication**. When **modal verbs** (*können, müssen, sollen, dürfen, wollen*) are involved, the sentence structure changes compared to basic **passiv** sentences.
 
 ### Key Points
 
@@ -20,9 +14,7 @@ müssen, sollen, dürfen, wollen*) are involved, the sentence structure changes 
 
 ## **2. Forming a sentence**
 
-The structure follows this formula:
-
-✅ **Modalverb (conjugated) + Partizip II + werden (infinitive)**
+> **Modalverb (conjugated) + Partizip II + werden (infinitive)**
 
 Example with **können** (can):
 
