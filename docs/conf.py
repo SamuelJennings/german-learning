@@ -70,6 +70,7 @@ extensions = [
     "myst_parser",
     "sphinx_comments",
     "extensions.roles",
+    "extensions.practice",
     # "sphinx_tippy",
 ]
 
