@@ -65,6 +65,7 @@ b1/concepts/index
 b2/overview
 b2/grammar/index
 b2/concepts/index
+notes/b2/index
 ```
 
 <!-- ```{toctree}
