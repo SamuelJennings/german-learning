@@ -26,11 +26,9 @@ When the noun is preceded by a **definite article** like *der*, *die*, or *das*,
 
 📝 *Note: The article provides the key grammatical information, so the adjective endings are regular and predictable.*
 
-```{admonition} Let's Practice!
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     Give me 10 English sentences that include a noun phrase with a definite article (the) followed by an adjective and a noun (e.g. "the big dog"). Be sure to include a variety of cases (nominativ, akkusativ, dativ and genetiv). Ask me to translate each one into German one by one, using the correct adjective endings after the definite article.
-```
+:::
 
 ## After an indefinite article
 
@@ -49,12 +47,9 @@ After **indefinite articles** (*ein, eine, ein*), the adjective takes a **mixed 
 
 📝 *Note: In plural, indefinite articles do not exist, so we treat them like adjectives with no article — which takes the strong declension (not shown here).*
 
-```{admonition} Let's Practice!
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     Give me 10 English sentences that include a noun phrase with an indefinite article (a/an) followed by an adjective and a noun (e.g. "a small house"). Be sure to include a variety of cases (nominativ, akkusativ, dativ and genetiv). Ask me to translate each one into German one by one, using the correct adjective endings after an indefinite article.
-
-```
+:::
 
 ## After possessive articles
 
@@ -73,11 +68,9 @@ Possessive articles (like *mein*, *dein*, *ihr*, *unser*, etc.) also use **mixed
 
 📝 *Note: The adjective has to carry some of the grammatical load, just like with “ein”.*
 
-```{admonition} Let's Practice!
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     Give me 10 English sentences that use possessive determiners (my, your, his, her, etc.) followed by an adjective and a noun (e.g. "my new car"). Be sure to include a variety of cases (nominativ, akkusativ, dativ and genetiv). Ask me to translate each one into German one by one, using the correct adjective endings after possessive articles.
-```
+:::
 
 ## Without an article
 
@@ -96,8 +89,6 @@ When there is **no article** before the noun, the adjective must show **all** th
 
 📝 *Note: This form is more common in formal writing or fixed phrases. In everyday speech, an article is almost always used.*
 
-```{admonition} Let's Practice!
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     Give me 10 English sentences that include a noun phrase with no article, where an adjective comes directly before the noun (e.g. "good food", "cold weather"). Be sure to include a variety of cases (nominativ, akkusativ, dativ and genetiv). Ask me to translate each one into German one by one, using strong adjective endings (without any article).
-```
+:::

@@ -41,11 +41,6 @@ For all other questions, use the **question word** (W-Frage) at the beginning of
 - The verb in the indirect question goes to the end.
 - They are useful for expressing uncertainty, politeness, and reporting speech.
 
-```{admonition} Let's practice!
-<!-- :class: tip -->
-
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
-Please generate 10 example sentences in English that require indirect questions in German. The sentences should be suitable for A2-level learners and should use a variety of W-Frage words (e.g., where, when, why, how, what, who, which) as well as “ob” for yes/no questions. The sentences should be short and simple, suitable for learners who are still becoming familiar with indirect questions. The sentences should cover a range of question types, including both W-questions and yes/no questions. Provide clear examples using both the present and past tense where appropriate.
-
-```
+:::{practice}
+Generate 10 example sentences in English that require indirect questions in German. The sentences should be suitable for A2-level learners and should use a variety of W-Frage words (e.g., where, when, why, how, what, who, which) as well as “ob” for yes/no questions. The sentences should be short and simple, suitable for learners who are still becoming familiar with indirect questions. The sentences should cover a range of question types, including both W-questions and yes/no questions. Provide clear examples using both the present and past tense where appropriate.
+:::

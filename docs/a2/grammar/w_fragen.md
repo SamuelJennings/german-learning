@@ -40,6 +40,10 @@ When you ask about **objects, situations, or ideas**, use the prefix **wo\(r\)**
 If the preposition starts with a vowel (*an*, *auf*, *über*), you insert an **-r-** between *wo* and the preposition: **woran**, **worauf**, **worüber**. Why? Because it just sounds better!
 ```
 
+:::{practice}
+    Generate 10 English sentences that include a question about an object introduced by a verb-preposition combination. Each question should be convertible to a German question using "wo(r)-" constructions like "Worauf wartest du?" or "Womit schreibst du?". Use a mix of accusative and dative prepositions. The sentences should be appropriate for A2-level learners.
+:::
+
 ### Asking about **people**
 
 When asking about people, we don't use the above form. Instead we start with the **preposition** and then add the correct form of the word "who" depending on the preposition.
@@ -63,6 +67,21 @@ When asking about people, we don't use the above form. Instead we start with the
 A small number of prepositions always take the *Akkusativ* case and a small number always take the *Dativ* case. Unfortunately, many prepositions can be used with *either* "Akkusativ" or "Dativ" so you will just have to become familiar with these in different situations and context over time. You can try to memorize as much as possible, however, I find the best way to learn is to practice with the verbs and their prepositions in context.
 ```
 
+**Practice Akkusativ phrases:**
+:::{practice}
+    Generate 10 English sentences that include a question about a person using a verb + accusative preposition. Each question should be suitable for translation into German using phrases like "für wen", "auf wen", or "um wen". Keep the grammar and vocabulary appropriate for A2-level learners.
+:::
+
+**Practice Dativ phrases:**
+:::{practice}
+    Generate 10 English sentences that include a question about a person using a verb + dative preposition. Each sentence should be suitable for translation into German using phrases like "mit wem", "von wem", or "bei wem". Use realistic, everyday scenarios and vocabulary appropriate for A2-level learners.
+:::
+
+**Practice mixec case:**
+:::{practice}
+    Generate 10 English sentences that include a question about a person using a verb + preposition construction. The sentences should be suitable to translate into German using "auf wen", "mit wem", "an wen", etc. Use a mix of accusative and dative cases. Avoid idioms and keep language clear and simple for A2-level learners.
+:::
+
 ## Summary
 
 - Ask about things/ideas, use *wo\(r\)+preposition* (Woran denkst du?)
@@ -73,28 +92,11 @@ A small number of prepositions always take the *Akkusativ* case and a small numb
 
 ## Practice
 
-```{admonition} Let's Practice!
+Use the following promprt to practice everything on this page:
 
-Practice **object questions only** (using "wo(r)+preposition"):\
-
-    Generate 10 English sentences that include a question about an object introduced by a verb-preposition combination. Each question should be convertible to a German question using "wo(r)-" constructions like "Worauf wartest du?" or "Womit schreibst du?". Use a mix of accusative and dative prepositions. The sentences should be appropriate for A2-level learners.
-
-Practice **people questions only** (Accusative case):
-
-    Generate 10 English sentences that include a question about a person using a verb + accusative preposition. Each question should be suitable for translation into German using phrases like "für wen", "auf wen", or "um wen". Keep the grammar and vocabulary appropriate for A2-level learners.
-
-Practice **people questions only** (Dative case):
-
-    Generate 10 English sentences that include a question about a person using a verb + dative preposition. Each sentence should be suitable for translation into German using phrases like "mit wem", "von wem", or "bei wem". Use realistic, everyday scenarios and vocabulary appropriate for A2-level learners.
-
-Practice **people questions only** (mixed case):
-
-    Generate 10 English sentences that include a question about a person using a verb + preposition construction. The sentences should be suitable to translate into German using "auf wen", "mit wem", "an wen", etc. Use a mix of accusative and dative cases. Avoid idioms and keep language clear and simple for A2-level learners.
-
-Practice **all**:
-
+:::{practice}
     Generate 10 English sentences that involve common German verb + preposition combinations. Include a mix of sentences that ask about things (requiring "wo(r)- + preposition") and people (requiring "preposition + wen/wem"). The sentences should be phrased as questions and suitable for A2-level learners. Then, translate each sentence into German using the correct W-Frage form and indicate whether it uses "wo(r)-" or "preposition + wen/wem". Example: What are you waiting for? → Worauf wartest du? (wo(r)-); Who are you speaking with? → Mit wem sprichst du? (preposition + wem)
-```
+:::
 
 ## Resources
 

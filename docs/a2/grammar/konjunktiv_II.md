@@ -62,12 +62,9 @@ The **Konjunktiv II** is formed from the simple past tense of the verb, often wi
 
 ```
 
-```{admonition} Let's Practice!
-
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     Create 10 sentences in English that involve polite requests. These should be sentences where you ask someone to do something or request assistance, using phrases such as "Could you," "Would you mind," or "I would appreciate it if." The sentences should be appropriate for translation into German using the Konjunktiv II tense for polite requests.
-```
+:::
 
 ## Wishes (Wünsche)
 
@@ -118,12 +115,9 @@ In a main sentence, the verb in Konjunktiv II typically comes second. In subordi
 7. **Wenn ich dort wäre, würde ich dir helfen.**  
 (If I were there, I would help you.)
 
-```{admonition} Let's Practice!
-
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     Generate 10 example sentences in English that express wishes, desires, or hypothetical situations. The sentences should reflect different contexts such as personal desires, things you'd like to have or do, or hypothetical situations that aren't true or are unlikely. Finish by asking me if I would like you to provide the answers in German using the Konjunktiv II tense.
-```
+:::
 
 ## Advice (Ratschläge)
 
@@ -167,8 +161,6 @@ Konjunktiv II is used in German to express hypothetical or unreal situations, an
 8. **In deiner Stelle würde ich das Gespräch sofort suchen.**  
 *(In your place, I would seek the conversation immediately.)*
 
-```{admonition} Let's Practice!
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     Generate 10 sentences in English that involve giving advice. These should be sentences where you suggest someone do something or give them a recommendation, using phrases such as "You should," "It would be better if," "You could....", "In you position, ...". The sentences should be appropriate for translation into German using the Konjunktiv II tense for giving advice.
-```
+:::

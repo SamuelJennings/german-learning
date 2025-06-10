@@ -36,13 +36,9 @@ Many of the verbs feature in multiple lists, as they can be used with different 
 | warten auf | to wait for | Akk |
 | zählen auf | to count on | Akk |
 
-```{admonition} Let's Practice!
-:class: d-print-none
-
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
-    You are a German tutor. Give me 10 English sentences that use common German verbs followed by the preposition "auf" in the accusative case. Use the following verbs in your examples: achten auf, antworten auf, aufpassen auf, sich freuen auf, sich vorbereiten auf, warten auf, sich konzentrieren auf, hoffen auf, sich verlassen auf, reagieren auf, träumen auf, sich stützen auf, verzichten auf, schauen auf, einwirken auf, zählen auf, drängen auf, bestehen auf. Present the sentences one at a time. After I attempt a translation into German, give me feedback and the correct answer before showing the next sentence.
-```
+:::{practice}
+    Give me 10 English sentences that use common German verbs followed by the preposition "auf" in the accusative case. Use the following verbs in your examples: achten auf, antworten auf, aufpassen auf, sich freuen auf, sich vorbereiten auf, warten auf, sich konzentrieren auf, hoffen auf, sich verlassen auf, reagieren auf, träumen auf, sich stützen auf, verzichten auf, schauen auf, einwirken auf, zählen auf, drängen auf, bestehen auf. Present the sentences one at a time. After I attempt a translation into German, give me feedback and the correct answer before showing the next sentence.
+:::
 
 ## An
 
@@ -68,12 +64,9 @@ Many of the verbs feature in multiple lists, as they can be used with different 
 | teilnehmen an | to participate in | Dat |
 | zweifeln an | to doubt | Dat |
 
-```{admonition} Let's Practice!
-:class: d-print-none
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     You are a German tutor. Give me 10 English sentences that use common German verbs followed by the preposition "an" in the accusative or dative case. Use the following verbs in your examples: denken an, sich erinnern an, glauben an, sich gewöhnen an, zweifeln an, arbeiten an, teilnehmen an, sich wenden an, sich richten an, schicken an, gehören an, sich erinnern an, hängen an, sich anpassen an, sich anfreunden an, abmelden an, ankommen an, arbeiten an, anrufen an. Present the sentences one at a time. After I attempt a translation into German, give me feedback and the correct answer before showing the next sentence.
-```
+:::
 
 ## Für
 
@@ -99,12 +92,9 @@ Many of the verbs feature in multiple lists, as they can be used with different 
 | verurteilen für | to condemn for | Akk |
 | werben für | to advertise for | Akk |
 
-```{admonition} Let's Practice!
-:class: d-print-none
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-    
+:::{practice}
     You are a German tutor. Give me 10 English sentences that use common German verbs followed by the preposition "für" in the accusative case. Use the following verbs in your examples: sich entscheiden für, sich interessieren für, kämpfen für, danken für, sorgen für, werben für, sich bedanken für, sich einsetzen für, halten für, stimmen für, sorgen für, entschuldigen für, eintreten für, plädieren für, verurteilen für, sich einsetzen für, sich rächen für, verantwortlich für, sich bewerben für. Present the sentences one at a time. After I attempt a translation into German, give me feedback and the correct answer before showing the next sentence.
-```
+:::
 
 ## Über
 
@@ -131,13 +121,9 @@ Many of the verbs feature in multiple lists, as they can be used with different 
 | urteilen über | to judge | Akk |
 | weinen über | to cry about | Akk |
 
-```{admonition} Let's Practice!
-:class: d-print-none
-
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     You are a German tutor. Give me 10 English sentences that use common German verbs followed by the preposition "über" in the accusative case. Use the following verbs in your examples: sich freuen über, sich wundern über, diskutieren über, klagen über, lachen über, nachdenken über, schimpfen über, urteilen über, forschen über, schreiben über, sich ärgern über, sich unterhalten über, sich austauschen über, sich beschweren über, lesen über, sich streiten über, sprechen über, weinen über. Present the sentences one at a time. After I attempt a translation into German, give me feedback and the correct answer before showing the next sentence.
-```
+:::
 
 ## Mit
 
@@ -164,12 +150,9 @@ Many of the verbs feature in multiple lists, as they can be used with different 
 | umgehen mit | to deal with (a situation) | Dat |
 | vergleichen mit | to compare with | Dat |
 
-```{admonition} Let's Practice!
-:class: d-print-none
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-    
+:::{practice}
     You are a German tutor. Give me 10 English sentences that use common German verbs followed by the preposition "mit" in the dative case. Use the following verbs in your examples: anfangen mit, aufhören mit, diskutieren mit, experimentieren mit, fertig werden mit, handeln mit, kämpfen mit, rechnen mit, sich beschäftigen mit, sich einigen mit, sich streiten mit, sich treffen mit, sich unterhalten
-```
+:::
 
 ## Bei
 
@@ -196,12 +179,9 @@ Many of the verbs feature in multiple lists, as they can be used with different 
 | zuschauen bei | to watch someone do something | Dat |
 | zuschauen bei | to watch while (someone does something) | Dat |
 
-```{admonition} Let's Practice!
-:class: d-print-none
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     You are a German tutor. Give me 10 English sentences that use common German verbs followed by the preposition "bei" in the dative case. Use the following verbs in your examples: ankommen bei, anrufen bei, arbeiten bei, bleiben bei, gewinnen bei, helfen bei, mithelfen bei, mitmachen bei, sich anmelden bei, sich bedanken bei, sich beklagen bei, sich bewerben bei, sich entschuldigen bei, sich informieren bei, sich melden bei, unterbrechen bei, verlieren bei, vorbeischauen bei, zuschauen bei. Present the sentences one at a time. After I attempt a translation into German, give me feedback and the correct answer before showing the next sentence.
-```
+:::
 
 ## Von
 
@@ -228,12 +208,9 @@ Many of the verbs feature in multiple lists, as they can be used with different 
 | verlangen von | to require from | Dat |
 | wissen von | to know about | Dat |
 
-```{admonition} Let's Practice!
-:class: d-print-none
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-    
+:::{practice}
     You are a German tutor. Give me 10 English sentences that use common German verbs followed by the preposition "von" in the dative case. Use the following verbs in your examples: abhängen von, erwarten von, erzählen von, fordern von, halten von, hören von, profitieren von, reden von, sich distanzieren von, sich erholen von, sich fürchten von, sich scheiden von, sich trennen von, sich verabschieden von, sprechen von, träumen von, überzeugen von, verlangen von. Present the sentences one at a time. After I attempt a translation into German, give me feedback and the correct answer before showing the next sentence.
-```
+:::
 
 ## Um
 
@@ -260,12 +237,9 @@ Many of the verbs feature in multiple lists, as they can be used with different 
 | werben um | to solicit / woo | Akk |
 | wetten um | to bet on | Akk |
 
-```{admonition} Let's Practice!
-:class: d-print-none
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     You are a German tutor. Give me 10 English sentences that use common German verbs followed by the preposition "um" in the accusative case. Use the following verbs in your examples: sich kümmern um, sich sorgen um, sich bemühen um, sich bewerben um, kämpfen um, bitten um, flehen um, kämpfen um, ringen um, sich drehen um, sich handeln um, sich reißen um, sich streiten um, spielen um, trauern um, werben um, wetten um. Present the sentences one at a time. After I attempt a translation into German, give me feedback and the correct answer before showing the next sentence.
-```
+:::
 
 ## Zu
 
@@ -292,12 +266,9 @@ Many of the verbs feature in multiple lists, as they can be used with different 
 | zählen zu | to count among | Dat |
 | zurückkehren zu | to return to | Dat |
 
-```{admonition} Let's Practice!
-:class: d-print-none
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     You are a German tutor. Give me 10 English sentences that use common German verbs followed by the preposition "zu" in the dative case. Use the following verbs in your examples: antworten zu, einladen zu, einverstanden sein zu, fahren zu, führen zu, gehen zu, gehören zu, gratulieren zu, kommen zu, neigen zu, raten zu, sich beugen zu, sich entschließen zu, sich verpflichten zu, sich vorbereiten zu, sich wenden zu, zählen zu, zurückkehren zu. Present the sentences one at a time. After I attempt a translation into German, give me feedback and the correct answer before showing the next sentence.
-```
+:::
 
 ## In
 
@@ -324,12 +295,9 @@ Many of the verbs feature in multiple lists, as they can be used with different 
 | warten in | to wait in | Dat |
 | wohnen in | to live in | Dat |
 
-```{admonition} Let's Practice!
-:class: d-print-none
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-    
+:::{practice}
     You are a German tutor. Give me 10 English sentences that use common German verbs followed by the preposition "in" in the accusative or dative case. Use the following verbs in your examples: arbeiten in, einladen in, eintauchen in, eintreten in, einziehen in, fahren in, gehen in, geraten in, kommen in, sich aufhalten in, sich befinden in, sich einarbeiten in, sich einfinden in, sich interessieren in, sich verlieben in, steigen in, versprechen in, warten in, wohnen in. Present the sentences one at a time. After I attempt a translation into German, give me feedback and the correct answer before showing the next sentence.
-```
+:::
 
 ## Aus
 
@@ -356,9 +324,6 @@ Many of the verbs feature in multiple lists, as they can be used with different 
 | sich zurückziehen aus | to withdraw from | Dat |
 | stammen aus | to originate from | Dat |
 
-```{admonition} Let's Practice!
-:class: d-print-none
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-        
+:::{practice}
     You are a German tutor. Give me 10 English sentences that use common German verbs followed by the preposition "aus" in the dative case. Use the following verbs in your examples: ableiten aus, aussteigen aus, bestehen aus, entkommen aus, fliehen aus, herausfinden aus, herauskommen aus, heraustreten aus, hervorgehen aus, kommen aus, resultieren aus, sich ausruhen aus, sich befreien aus, sich beugen aus, sich entwickeln aus, sich ergeben aus, sich herausstellen aus, sich retten aus, sich zurückziehen aus, stammen aus. Present the sentences one at a time. After I attempt a translation into German, give me feedback and the correct answer before showing the next sentence.
-```
+:::

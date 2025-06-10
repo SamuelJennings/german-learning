@@ -66,12 +66,9 @@ To form the German "Komparativ", follow this structure:
 7. **Heute ist es kälter als gestern.**  
 *Today is colder than yesterday.*  
 
-```{admonition} Let's Practice!
-
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     Generate 10 example sentences in English for someone learning German at an A2 level. The sentences should focus on making comparisons using 'als' in German. The sentences should be simple, clear, and include comparisons such as 'bigger than,' 'faster than,' 'more expensive than,' etc. Each sentence should involve a comparison of two things or people. For example: 'My house is bigger than yours.
-```
+:::
 
 ## Superlative
 
@@ -136,12 +133,9 @@ If an adjective ends in **-d, -t, -s, -ß, -sch, -z**, you often add an **extra 
 7. **Das war der langweiligste Film, den ich je gesehen habe.**  
 *That was the most boring film I’ve ever seen.*  
 
-```{admonition} Let's Practice!
-
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     Generate 10 example sentences in English for someone learning German at an A2 level. The sentences should focus on using the Superlative in German. Include a mix of sentences where the Superlative adjective is placed before a noun (e.g., 'the tallest mountain') and sentences where the Superlative is used as a standalone adjective (e.g., 'the best'). The sentences should be simple and clear, using common adjectives such as 'biggest,' 'fastest,' 'most expensive,' etc. For example: 'This is the most beautiful painting.
-```
+:::
 
 ## Equality
 
@@ -188,12 +182,9 @@ Sometimes, you really need to stress that two things are *exactly* the same. In 
 
 Both **"so … wie"** and **"genauso … wie"** are correct and natural. Use *genauso* when you want to highlight or reinforce the equality.
 
-```{admonition} Let's Practice!
-
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
+:::{practice}
     Generate 10 example sentences in English for someone learning German at an A2 level. The sentences should focus on making statements of equality between two things using 'so... wie' and 'genauso... wie.' Include a mixture of sentences where 'so... wie' is used and others where 'genauso... wie' is required. The sentences should be simple and clear, with examples like 'She is as tall as he is' or 'This book is just as interesting as that one.' For example: 'My car is as fast as yours.
-```
+:::
 
 ## Summary
 
@@ -204,9 +195,6 @@ Both **"so … wie"** and **"genauso … wie"** are correct and natural. Use *ge
 | **Gleichheitsvergleich** | Sie ist genauso klug wie er. |
 
 
-```{admonition} Let's Practice!
-
-Practice everything together by copying the following prompt into ChatGPT:
-
+:::{practice}
     Generate 10 example sentences in English for someone learning German at an A2 level. The sentences should cover three concepts: Comparisons using 'als' (e.g., 'My house is bigger than yours'). The Superlative (e.g., 'This is the best pizza in town'), including a mix of adjectives used before nouns and standalone adjectives. Statements of equality using 'so... wie' and 'genauso... wie' (e.g., 'She is as tall as he is,' 'This book is just as interesting as that one'). The sentences should be simple, clear, and cover a variety of adjectives and structures, making sure there is a good balance between all three concepts.
-```
+:::

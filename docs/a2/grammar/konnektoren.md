@@ -25,12 +25,9 @@ The conjugated verb in the second clause always comes directly after *deshalb*.
 7. **Ich habe meinen Schlüssel verloren, deshalb musste ich draußen warten.**  
 (*I lost my key, that’s why I had to wait outside.*)
 
-```{admonition} Let's Practice!
-
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
-    Generate 10 sentences in English that require the use of the word 'deshalb' when translated to German.
-```
+:::{practice}
+    Generate 10 sentences in English that require the use of the word 'deshalb' when translated to German. Show them one by one. After I have answered, provide feedback and then the next sentence.
+:::
 
 ## Trotzdem (nevertheless)
 
@@ -61,9 +58,6 @@ The conjugated verb in the second clause always comes directly after *trotzdem*.
 7. **Ich habe meinen Schlüssel verloren, trotzdem bin ich ruhig geblieben.**  
 (*I lost my key, nevertheless, I stayed calm.*)
 
-```{admonition} Let's Practice!
-
-*Copy and paste the following prompt into ChatGPT to generate sentences for practice.*
-
-    Generate 10 sentences in English that require the use of the word 'trotzdem' when translated to German. Use the words "despite that", "nevertheless", "but", "yet", "even though" or "still" in your English sentences.
-```
+:::{practice}
+    Generate 10 sentences in English that require the use of the word 'trotzdem' when translated to German. Use the words "despite that", "nevertheless", "but", "yet", "even though" or "still" in your English sentences. Show them one by one. After I have answered, provide feedback and then the next sentence.
+:::
