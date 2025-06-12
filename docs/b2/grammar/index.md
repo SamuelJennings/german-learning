@@ -73,4 +73,5 @@ das_wort_es
 two_part_connectors
 zu_plus_infinitiv
 relativsaetze_mit_wer
+passiv
 ```
