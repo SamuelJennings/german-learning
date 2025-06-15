@@ -46,6 +46,11 @@ Continuing on, we will explore different types of passive voice in German, their
 | Futur I | *Der Koffer wird gestohlen werden.* | The suitcase will be stolen. |
 | Futur II | *Der Koffer wird gestohlen worden sein.* | The suitcase will have been stolen. |
 
+
+:::{practice}
+Generate 10 sentences in English in the Vorgangspassiv (Action-Oriented Passive) that I can translate into German. Use a variety of different tenses, verbs and subjects. Give me the English sentences one by one, and I will respond with the German translation. After I respond, you can provide feedback on my translation and then give me the next sentence. 
+:::
+
 * * *
 
 ## Passiv ohne Täter (Impersonal Passive)
@@ -57,6 +62,10 @@ Continuing on, we will explore different types of passive voice in German, their
 
 - *Man gibt viel Geld aus.* → *Viel Geld wird ausgegeben.*
 - *Niemand gibt Geld aus.* → *Kein Geld ist ausgegeben worden.*
+
+:::{practice}
+Generate 10 sentences in English in the Impersonal Passive that I can translate into German. Use a variety of different verbs and subjects. Give me the English sentences one by one, and I will respond with the German translation. After I respond, you can provide feedback on my translation and then give me the next sentence.
+:::
 
 * * *
 
@@ -107,6 +116,10 @@ e.g. *Es wurde viel getan.* (Much was done.)
 - In the passive, make sure **adjective endings** reflect any case changes (especially when the accusative becomes nominative).
 :::
 
+:::{practice}
+Generate 10 active sentences in German that I can convert into passive, focusing on prepositional or dative objects. Use a variety of verbs and subjects. Give me the active sentences one by one, and I will respond with the passive translation. After I respond, you can provide feedback on my translation and then give me the next sentence. Your feedback and instructions should be in English.
+:::
+
 * * *
 
 ## Passiv mit Modalverben (Passive with Modal Verbs)
@@ -123,6 +136,11 @@ e.g. *Es wurde viel getan.* (Much was done.)
 | Plusquamperfekt | *hatte erklärt werden müssen* | had to be explained (past of past) |
 | Futur I | *wird erklärt werden müssen* | will have to be explained |
 
+:::{practice}
+Generate 10 sentences in English that I can translate into German, focusing on passive constructions with modal verbs. Use a variety of tenses, verbs and subjects. Give me the English sentences one by one, and I will respond with the German translation. After I respond, you can provide feedback on my translation and then give me the next sentence.
+:::
+
+
 * * *
 
 ## Zustandspassiv (State-Oriented Passive)
@@ -138,4 +156,8 @@ e.g. *Es wurde viel getan.* (Much was done.)
 
 :::{note}
 In many cases, **Zustandspassiv (present)** has a similar meaning to **Vorgangspassiv (past)**.
+:::
+
+:::{practice}
+Generate 10 sentences in English that I can translate into German, focusing on Zustandspassiv (State-Oriented Passive). Use a variety of verbs and subjects. Give me the English sentences one by one, and I will respond with the German translation. After I respond, you can provide feedback on my translation and then give me the next sentence.
 :::
