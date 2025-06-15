@@ -44,6 +44,7 @@ contributing
 a2/overview
 a2/grammar/index
 a2/concepts/index
+a2/vocabulary/index
 a2/dialogues/index
 ```
 
