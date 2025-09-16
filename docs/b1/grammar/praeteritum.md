@@ -1,1 +1,0 @@
-# Präteritum (Modal verbs in the simple past)
