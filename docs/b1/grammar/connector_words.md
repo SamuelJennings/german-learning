@@ -5,17 +5,27 @@ Connector words, also known as linking words or conjunctions, are essential for 
 
 ## Connecting two independent clauses
 
-Indpendent clauses are sentences that make perfect sense on their own without requiring further context. We can connect two independent clauses in order to express a relationship between them. When connecting two main clauses, we use **coordinating conjunctions**. 
+Indpendent clauses are sentences that make perfect sense on their own without requiring further context. We can connect two independent clauses in order to express a relationship between them. When connecting two main clauses, we use **coordinating conjunctions**.
 
 These connector types **do not affect word order** in the sentence. The verb remains in the second position in the main clause, and the second clause follows the first one directly.
 
 **Common Coordinating Conjunctions:**
 
-- **und** (*and*) → Ich esse Brot, **und** ich trinke Tee. (*I eat bread, and I drink tea.*)
-- **aber** (*but*) → Er wollte kommen, **aber** er hatte keine Zeit. (*He wanted to come, but he had no time.*)
-- **oder** (*or*) → Willst du Kaffee **oder** Tee? (*Do you want coffee or tea?*)
-- **denn** (*because*) → Ich bleibe zu Hause, **denn** ich bin krank. (*I stay home because I am sick.*)
-- **sondern** (*but rather*) → Er ist nicht Lehrer, **sondern** Arzt. (*He is not a teacher but rather a doctor.*)
+- **und** (*and*)  
+	**Ich esse Brot, und ich trinke Tee.**  
+	(*I eat bread, and I drink tea.*)
+- **aber** (*but*)  
+	**Er wollte kommen, aber er hatte keine Zeit.**  
+	(*He wanted to come, but he had no time.*)
+- **oder** (*or*)  
+	**Willst du Kaffee oder Tee?**  
+	(*Do you want coffee or tea?*)
+- **denn** (*because*)  
+	**Ich bleibe zu Hause, denn ich bin krank.**  
+	(*I stay home because I am sick.*)
+- **sondern** (*but rather*)  
+	**Er ist nicht Lehrer, sondern Arzt.**  
+	(*He is not a teacher but rather a doctor.*)
 
 ---
 
@@ -25,11 +35,21 @@ These introduce subordinate clauses, which depend on the main clause. In German,
 
 **Common Subordinating Conjunctions:**
 
-- **weil** (*because*) → Ich bleibe zu Hause, **weil es regnet**. (*I stay home because it is raining.*)
-- **obwohl** (*although*) → Er geht spazieren, **obwohl es kalt ist**. (*He goes for a walk although it is cold.*)
-- **wenn** (*if, when*) → **Wenn du willst**, können wir ins Kino gehen. (*If you want, we can go to the cinema.*)
-- **da** (*since, because*) → **Da ich müde bin**, gehe ich schlafen. (*Since I am tired, I go to sleep.*)
-- **während** (*while, during*) → Ich höre Musik, **während ich arbeite**. (*I listen to music while I work.*)
+- **weil** (*because*)  
+	**Ich bleibe zu Hause, weil es regnet.**  
+	(*I stay home because it is raining.*)
+- **obwohl** (*although*)  
+	**Er geht spazieren, obwohl es kalt ist.**  
+	(*He goes for a walk although it is cold.*)
+- **wenn** (*if, when*)  
+	**Wenn du willst, können wir ins Kino gehen.**  
+	(*If you want, we can go to the cinema.*)
+- **da** (*since, because*)  
+	**Da ich müde bin, gehe ich schlafen.**  
+	(*Since I am tired, I go to sleep.*)
+- **während** (*while, during*)  
+	**Ich höre Musik, während ich arbeite.**  
+	(*I listen to music while I work.*)
 
 **Note:** The verb in the subordinate clause is always at the **end**.
 
@@ -41,10 +61,18 @@ These are paired expressions that link related ideas in a structured way.
 
 **Common Two-Part Connectors:**
 
-- **nicht nur … sondern auch** (*not only … but also*) → Er ist **nicht nur** intelligent, **sondern auch** fleißig. (*He is not only intelligent but also hardworking.*)
-- **sowohl … als auch** (*both … and*) → Sie spricht **sowohl** Deutsch **als auch** Englisch. (*She speaks both German and English.*)
-- **weder … noch** (*neither … nor*) → Er trinkt **weder** Kaffee **noch** Tee. (*He drinks neither coffee nor tea.*)
-- **entweder … oder** (*either … or*) → Du kannst **entweder** Pizza **oder** Pasta essen. (*You can eat either pizza or pasta.*)
+- **nicht nur … sondern auch** (*not only … but also*)  
+	**Er ist nicht nur intelligent, sondern auch fleißig.**  
+	(*He is not only intelligent but also hardworking.*)
+- **sowohl … als auch** (*both … and*)  
+	**Sie spricht sowohl Deutsch als auch Englisch.**  
+	(*She speaks both German and English.*)
+- **weder … noch** (*neither … nor*)  
+	**Er trinkt weder Kaffee noch Tee.**  
+	(*He drinks neither coffee nor tea.*)
+- **entweder … oder** (*either … or*)  
+	**Du kannst entweder Pizza oder Pasta essen.**  
+	(*You can eat either pizza or pasta.*)
 
 **Note:** The two clauses must be logically connected.
 
@@ -56,10 +84,18 @@ These words function like conjunctions but influence word order. The verb immedi
 
 **Common Conjunctive Adverbs:**
 
-- **deshalb** (*therefore*) → Es regnet, **deshalb** bleiben wir zu Hause. (*It is raining; therefore, we stay home.*)
-- **trotzdem** (*nevertheless*) → Es ist kalt, **trotzdem** geht er spazieren. (*It is cold; nevertheless, he goes for a walk.*)
-- **daher** (*hence, therefore*) → Ich habe keine Zeit, **daher** kann ich nicht kommen. (*I have no time; hence, I can't come.*)
-- **ansonsten** (*otherwise*) → Beeil dich, **ansonsten** verpassen wir den Zug. (*Hurry up, otherwise, we will miss the train.*)
+- **deshalb** (*therefore*)  
+	**Es regnet, deshalb bleiben wir zu Hause.**  
+	(*It is raining; therefore, we stay home.*)
+- **trotzdem** (*nevertheless*)  
+	**Es ist kalt, trotzdem geht er spazieren.**  
+	(*It is cold; nevertheless, he goes for a walk.*)
+- **daher** (*hence, therefore*)  
+	**Ich habe keine Zeit, daher kann ich nicht kommen.**  
+	(*I have no time; hence, I can't come.*)
+- **ansonsten** (*otherwise*)  
+	**Beeil dich, ansonsten verpassen wir den Zug.**  
+	(*Hurry up, otherwise, we will miss the train.*)
 
 **Note:** These words affect word order, requiring **inversion** of the verb and subject in the second clause.
 
@@ -71,10 +107,18 @@ These are formed with "da-" + preposition and are often used instead of repeatin
 
 **Common Pronominal Adverbs:**
 
-- **dafür** (*for that*) → Ich interessiere mich **dafür**. (*I am interested in that.*)
-- **darauf** (*on that*) → Ich warte **darauf**. (*I am waiting for that.*)
-- **damit** (*with that*) → Was meinst du **damit**? (*What do you mean by that?*)
-- **daran** (*about that*) → Ich denke **daran**. (*I am thinking about that.*)
+- **dafür** (*for that*)  
+	**Ich interessiere mich dafür.**  
+	(*I am interested in that.*)
+- **darauf** (*on that*)  
+	**Ich warte darauf.**  
+	(*I am waiting for that.*)
+- **damit** (*with that*)  
+	**Was meinst du damit?**  
+	(*What do you mean by that?*)
+- **daran** (*about that*)  
+	**Ich denke daran.**  
+	(*I am thinking about that.*)
 
 **Note:** Used to replace noun phrases referring to things, never for people.
 

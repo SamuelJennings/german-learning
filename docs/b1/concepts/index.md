@@ -1,43 +1,12 @@
 # Concepts
 
 ```{toctree}
-:maxdepth: 1
-:caption: Cases
+:maxdepth: 2
 
-genitiv
-
-```
-
-```{toctree}
-:maxdepth: 1
-:caption: Tenses
-
-praeteritum
-plusquamperfekt
-futur_I
-
-```
-
-```{toctree}
-:maxdepth: 1
-:caption: Moods
-
-konjunktiv_II
+expressing_consequences
+expressing_opinions
+expressing_reasons
+goals_intention_purpose
+order_of_events_past
 unreal_conditionals
-
-```
-
-```{toctree}
-:maxdepth: 1
-:caption: Voices
-
-passive_voice
-```
-
-```{toctree}
-:maxdepth: 1
-:caption: Other
-
-lassen
-indirekt_rede
 ```
