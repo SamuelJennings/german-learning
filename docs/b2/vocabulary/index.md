@@ -1,4 +1,4 @@
-# Dialogues
+# Vocabulary
 
 ```{toctree}
 :maxdepth: 2

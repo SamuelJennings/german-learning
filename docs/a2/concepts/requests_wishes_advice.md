@@ -39,40 +39,26 @@ The **Konjunktiv II** form of modal verbs is usually created by adding the appro
 
 Here are some example sentences that illustrate how to use Konjunktiv II to make polite requests:
 
-1. **Könnten Sie mir bitte helfen?**  
+**Könnten Sie mir bitte helfen?**  
 *(Could you please help me?)*
 
-    - *Könnten* is the Konjunktiv II form of *können* (to be able to), making the request polite and respectful.
-
-2. **Würden Sie mir den Weg zeigen?**  
+**Würden Sie mir den Weg zeigen?**  
 *(Would you show me the way?)*
 
-    - *Würden* is the Konjunktiv II form of *werden*, used here to create a polite request.
-
-3. **Ich möchte einen Kaffee, bitte.**  
+**Ich möchte einen Kaffee, bitte.**  
 *(I would like a coffee, please.)*
 
-    - *Möchte* is the Konjunktiv II form of *mögen* (to like), used to express a polite desire.
-
-4. **Könnte ich bitte das Fenster öffnen?**  
+**Könnte ich bitte das Fenster öffnen?**  
 *(Could I please open the window?)*
 
-    - Using *könnte* for a polite request that the speaker makes of themselves.
-
-5. **Würden Sie mir ein Glas Wasser bringen?**  
+**Würden Sie mir ein Glas Wasser bringen?**  
 *(Would you bring me a glass of water?)*
 
-    - Another example of using *würden* for a polite request in a more formal context.
-
-6. **Möchtest du mit uns kommen?**  
+**Möchtest du mit uns kommen?**  
 *(Would you like to come with us?)*
 
-    - Using *möchtest* to politely ask someone if they want to join or participate.
-
-7. **Könnte ich noch etwas mehr Zeit haben?**  
+**Könnte ich noch etwas mehr Zeit haben?**  
 *(Could I have a little more time?)*
-
-    - Another example using *könnte* to make a polite request.
 
 ```{tip}
 - **Start with “Könnten” or “Würden”** for a polite tone when making requests.

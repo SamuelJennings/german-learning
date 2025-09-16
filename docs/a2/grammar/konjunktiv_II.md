@@ -21,37 +21,37 @@ The **Konjunktiv II** is formed from the simple past tense of the verb, often wi
 
 
 1. **Könnten Sie mir bitte helfen?**  
-*(Could you please help me?)*
+(*Could you please help me?*)
 
     - *Könnten* is the Konjunktiv II form of *können* (to be able to), making the request polite and respectful.
 
 2. **Würden Sie mir den Weg zeigen?**  
-*(Would you show me the way?)*
+(*Would you show me the way?*)
 
     - *Würden* is the Konjunktiv II form of *werden*, used here to create a polite request.
 
 3. **Ich möchte einen Kaffee, bitte.**  
-*(I would like a coffee, please.)*
+(*I would like a coffee, please.*)
 
     - *Möchte* is the Konjunktiv II form of *mögen* (to like), used to express a polite desire.
 
 4. **Könnte ich bitte das Fenster öffnen?**  
-*(Could I please open the window?)*
+(*Could I please open the window?*)
 
     - Using *könnte* for a polite request that the speaker makes of themselves.
 
 5. **Würden Sie mir ein Glas Wasser bringen?**  
-*(Would you bring me a glass of water?)*
+(*Would you bring me a glass of water?*)
 
     - Another example of using *würden* for a polite request in a more formal context.
 
 6. **Möchtest du mit uns kommen?**  
-*(Would you like to come with us?)*
+(*Would you like to come with us?*)
 
     - Using *möchtest* to politely ask someone if they want to join or participate.
 
 7. **Könnte ich noch etwas mehr Zeit haben?**  
-*(Could I have a little more time?)*
+(*Could I have a little more time?*)
 
     - Another example using *könnte* to make a polite request.
 
@@ -95,25 +95,25 @@ In a main sentence, the verb in Konjunktiv II typically comes second. In subordi
 ### Examples
 
 1. **Ich wünschte, ich hätte mehr Zeit.**  
-(I wish I had more time.)
+(*I wish I had more time.*)
 
 2. **Es wäre schön, wenn du mit mir ins Kino gehen würdest.**  
-(It would be nice if you would go to the cinema with me.)
+(*It would be nice if you would go to the cinema with me.*)
 
 3. **Ich hätte gerne ein neues Auto.**  
-(I would like a new car.)
+(*I would like a new car.*)
 
 4. **Wenn ich mehr Geld hätte, würde ich eine Weltreise machen.**  
-(If I had more money, I would travel the world.)
+(*If I had more money, I would travel the world.*)
 
 5. **Ich wünschte, ich könnte besser Deutsch sprechen.**  
-(I wish I could speak German better.)
+(*I wish I could speak German better.*)
 
 6. **Es wäre toll, wenn wir morgen zusammen essen könnten.**  
-(It would be great if we could eat together tomorrow.)
+(*It would be great if we could eat together tomorrow.*)
 
 7. **Wenn ich dort wäre, würde ich dir helfen.**  
-(If I were there, I would help you.)
+(*If I were there, I would help you.*)
 
 :::{practice}
     Generate 10 example sentences in English that express wishes, desires, or hypothetical situations. The sentences should reflect different contexts such as personal desires, things you'd like to have or do, or hypothetical situations that aren't true or are unlikely. Finish by asking me if I would like you to provide the answers in German using the Konjunktiv II tense.
@@ -138,28 +138,28 @@ Konjunktiv II is used in German to express hypothetical or unreal situations, an
 ### Examples
 
 1. **Du solltest mehr Wasser trinken.**  
-*(You should drink more water.)*
+(*You should drink more water.*)
 
 2. **Es wäre besser, wenn du früher ins Bett gehen würdest.**  
-*(It would be better if you went to bed earlier.)*
+(*It would be better if you went to bed earlier.*)
 
 3. **Du könntest mehr lernen, wenn du die Zeit hättest.**  
-*(You could study more if you had the time.)*
+(*You could study more if you had the time.*)
 
 4. **Es wäre gut, wenn du regelmäßig spazieren gehen würdest.**  
-*(It would be good if you went for a walk regularly.)*
+(*It would be good if you went for a walk regularly.*)
 
 5. **Du solltest die E-Mail noch einmal überprüfen, bevor du sie sendest.**  
-*(You should check the email again before you send it.)*
+(*You should check the email again before you send it.*)
 
 6. **Es wäre besser, wenn du nicht so viel fernsehen würdest.**  
-*(It would be better if you didn’t watch so much TV.)*
+(*It would be better if you didn’t watch so much TV.*)
 
 7. **Du könntest einen Arzt aufsuchen, wenn du dich nicht besser fühlst.**  
-*(You could see a doctor if you don’t feel better.)*
+(*You could see a doctor if you don’t feel better.*)
 
 8. **In deiner Stelle würde ich das Gespräch sofort suchen.**  
-*(In your place, I would seek the conversation immediately.)*
+(*In your place, I would seek the conversation immediately.*)
 
 :::{practice}
     Generate 10 sentences in English that involve giving advice. These should be sentences where you suggest someone do something or give them a recommendation, using phrases such as "You should," "It would be better if," "You could....", "In you position, ...". The sentences should be appropriate for translation into German using the Konjunktiv II tense for giving advice.

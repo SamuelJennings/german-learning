@@ -56,34 +56,6 @@
 - Verbs with prepositions and subordinate clauses – *(high)*
 
 
-<!-- ## Priority Summary
-
-✅ Learn First (High Priority)
-
-- Konjunktiv II Präsens (hypotheticals & politeness)
-- Weil & denn (causality)
-- Wenn-Sätze (conditions)
-- Während, bevor, nachdem (time clauses)
-- Reflexive Verben
-- Trennbare & untrennbare Verben
-- Relativsätze im Nominativ & Akkusativ
-
-⚠️ Learn Next (Medium Priority)
-
-- Passiv Präsens
-- Adjektivdeklination mit Nullartikel
-- Wechselpräpositionen (mit Dativ & Akkusativ)
-- Relativsätze im Dativ & Genitiv
-- Indirekte Fragen
-- Doppelte Konjunktionen (nicht nur… sondern auch…)
-
-⛔ Learn Last (Low Priority)
-
-- Passiv mit Modalverben
-- Konjunktiv I für indirekte Rede
-- Relativsätze mit Präpositionen
-- Nominalstil (Verb → Noun conversion) -->
-
 ```{toctree}
 :maxdepth: 2
 
@@ -91,8 +63,19 @@ grammatical_categories
 sentence_building
 
 connector_words
-expressing_consequences
 konjunktiv_II
 indirekt_rede
-
+zweiteillige_konnektoren
+futur_I
+genitiv
+lassen
+nebensaetze
+n_deklination
+nominalisierung
+passiv
+plusquamperfekt
+praeteritum
+relativsaetze
+subordinate_clauses
+comparative_and_superlative
 ```

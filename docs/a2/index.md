@@ -1,6 +1,6 @@
 # Overview
 
-*(According to the **Common European Framework of Reference for Languages – CEFR**)*
+*(According to the **Common European Framework of Reference for Languages – CEFR**)*)
   
 At **A2 level**, learners can **communicate in simple, routine situations** related to everyday life. They can understand and produce **short, basic sentences** and interact in **familiar contexts**.  
 

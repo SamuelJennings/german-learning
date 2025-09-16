@@ -41,7 +41,7 @@ contributing
 :hidden:
 :caption: A2 German
 
-a2/overview
+a2/index
 a2/grammar/index
 a2/concepts/index
 a2/vocabulary/index
@@ -53,9 +53,11 @@ a2/dialogues/index
 :hidden:
 :caption: B1 German
 
-b1/overview
+b1/index
 b1/grammar/index
 b1/concepts/index
+b1/vocabulary/index
+b1/dialogues/index
 ```
 
 ```{toctree}
@@ -66,6 +68,8 @@ b1/concepts/index
 b2/overview
 b2/grammar/index
 b2/concepts/index
+ b2/vocabulary/index
+ b2/dialogues/index
 notes/b2/index
 ```
 

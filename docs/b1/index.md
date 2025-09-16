@@ -42,7 +42,9 @@ At **B1 level** in German (according to the **Common European Framework of Refer
 - [ ] I can rephrase or simplify what I want to say.
 - [ ] I can use simple expressions to keep a conversation going.
 
+ 
 ### **Conclusion: What Can a B1 Learner Do?**  
+
 By the end of B1, a learner can:  
 ✅ **Survive independently** in a German-speaking country  
 ✅ **Have conversations** on familiar and personal topics  
