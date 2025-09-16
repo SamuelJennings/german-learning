@@ -1,0 +1,65 @@
+# Course Outline
+
+
+## Topics / Concepts
+
+- Uber heimat sprechen (Speaking about home)
+    - Erfahrungen beim Auswandern (Experiences with emigration)
+    - Vielsprachigkeit (Multilingualism)
+    - Kulturelle Missverstaendliches (Cultural misunderstandings)
+    - Zuhause in Deutchland (Feeling at home in Germany)
+- Kommunikation
+    - Gestures and body language
+    - Language learning as a child vs adult
+    - Small talk
+    - Arguing, expressing postive and negative opinions
+- Berufe
+    - Stellensuche (Job search)
+    - Gluck im Beruf (Happiness at work)
+    - Teamgeist (Team spirit)
+    - Lebenslauf und Bewerbung (CV and application)
+    - Vorstellungsgespraech (Job interview)
+- Zusammen leben
+    - Ueber cartoons sprechen (Talking about cartoons)
+    - Gewalt verstehen (Understanding violence)
+    - Armut und Reichtum (Poverty and wealth)
+    - Internetverhalten und Onlinesucht (Internet behavior and online addiction)
+    - Zukunftswunsche (Future wishes)
+    - Sprechen ueber Dinge, die eine stoeren (Talking about things that bother you)
+- Wissen
+    - Wissenschaft fur Kinder
+    - Luegen verstehen (Understanding lies)
+    - Eine zukunftsvision (A vision of the future)
+    - Bueroschlaf (Office naps)
+    - Leserbrief schreiben (Writing a letter to the editor)
+- Fit fur... Denkaufgaben (Brain teasers)
+    - Telefongespraeche erfolgreich bewaeltigen (Successfully managing phone calls)
+    - Tipps fur den Umgang mit Kollegen (Tips for dealing with colleagues)
+    - Personlichen brief schreiben (Writing a personal letter)
+    - Information aus einem Text weitergeben (Passing on information from a text)
+- Weltkultur
+    - UNESCO Weltkulturerbe (UNESCO World Heritage)
+    - Kunstraub (Art theft)
+    - Sprachensterben (Language extinction)
+    - Buchrezensionen (Book reviews)
+    - Kulturelle Ereignisse (Cultural events)
+    - Ein Buch vorstellen (Presenting a book)
+- Geschichte
+    - Gelebte geschichte (Lived history)
+    - Quellen der Geschichte (Sources of history)
+    - Irrtuemer der Geschichte (Misconceptions of history)
+    - die Teilung Deutschlands (The division of Germany)
+    - Zeitzeugenaussagen (Contemporary witness statements)
+    - der Tag des Mauerfalls (The day the Berlin Wall fell)
+- Ueber Fuhlen sprechen (Talking about feelings)
+    - Musik machen
+    - Wirkung von Farben Stellung nehmen (The effect of colors)
+    - Emotionale verstaerken (Enhancing emotions)
+    - Angst haben (Being afraid)
+    - Entsheidigungsfindung (Decision making)
+- Ein blick in die Zukunft (A look into the future)
+    - die Rolle von Robotern (The role of robots)
+    - Ideen fur die Gesundheitsmarkt (Ideas for the health market)
+    - Berufe der Zukunft (Jobs of the future)
+    - Einen bewerdebrief schreiben (Writing a job application letter)
+    - Sprechen ueber Zukunftszenarien in Buechern, Theatre und Film (Talking about future scenarios in books, theater, and film)
