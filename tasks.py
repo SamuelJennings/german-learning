@@ -9,9 +9,9 @@ def build(c, live=False):
     Build the documentation
     """
     if live:
-        c.run("sphinx-autobuild -b html --watch docs -c docs docs docs/_build/html --open-browser --port 5000")
+        c.run("sphinx-autobuild -b html --watch . -c . . _build/html --open-browser --port 5000")
     else:
-        c.run("sphinx-build -E -b html docs docs/_build")
+        c.run("sphinx-build -E -b html . _build")
 
 
 @task

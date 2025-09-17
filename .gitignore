@@ -7,6 +7,7 @@
 /.ipython
 _build/
 data/
+.github/instructions/
 
 #no migration files except __init__.py
 # **/migrations/*
