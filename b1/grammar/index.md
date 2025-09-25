@@ -18,6 +18,7 @@ connector-words
 konjunktiv-ii
 indirekt-rede
 zweiteilige-konnektoren
+indefinitwoerter-verneinen
 
 genitiv
 lassen

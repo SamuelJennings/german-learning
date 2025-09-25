@@ -8,5 +8,7 @@ experiences-with-emigration
 vielsprachigkeit
 cultural-misunderstandings
 feeling-at-home-in-germany
+smalltalk
+office-smalltalk
 
 ```

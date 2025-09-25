@@ -12,6 +12,7 @@ caption: Sentence Structure and Word Order
 word-positions
 tekamolo
 emphasis
+negating-a-sentence
 ```
 
 ```{toctree}
