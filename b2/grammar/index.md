@@ -21,6 +21,7 @@ maxdepth: 1
 caption: Pronouns and Articles
 ---
 das-wort-es
+indefinitpronomen
 relativsaetze-mit-wer
 ```
 
