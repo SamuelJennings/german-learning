@@ -1,0 +1,51 @@
+K1:
+  - topic: Possessivartikel im Dativ
+  - topic: Doch (nach Ja/Nein-Fragen)
+  - topic: Reflexive Verben
+  - topic: Nebensatz mit 'Weil'
+K2:
+  - topic: Modalverben im Präteritum
+  - topic: Positionsverben
+    sections:
+      - name: Wohin?
+        context: stellen, legen, setzen, hängen, etc.
+      - name: Wo?
+        context: stehen, liegen, sitzen, hängen, etc.
+  - topic: Wechselpräpositionen 
+    sections:
+      - name: Wohin? Mit Akkusativ
+        context: In den schrank, auf den Tisch, an die Wand, etc.
+      - name: Wo? Mit Dativ
+        context: Im Schrank, auf dem Tisch, an der Wand, etc.
+    context: in, an, auf, über, unter, vor, hinter, neben, zwischen
+K3:
+  - topic: Adjektive
+    sections:
+      - Komparativ
+      - Superlativ
+      - name: Vergleich mit 'als' und 'wie'
+        context: Be sure to also cover "(genau)so ... wie" and negative variations "nicht (genau(so)... wie)". 
+  - topic: Nebensatz mit 'Dass'
+K4:
+  - topic: Nebensatz mit 'Wenn'
+  - topic: Adjektive nach dem bestimmten Artikel
+    context: Be sure to cover all variations (nominative, accusative, dative, genitive; masculine, feminine, neuter, plural).
+K5:
+  - topic: Adjektive nach dem unbestimmten Artikel
+    context: Be sure to cover all variations (nominative, accusative, dative, genitive; masculine, feminine, neuter, plural).
+  - topic: Präpositionen 'ohne' und 'mit'
+    sections:
+      - name: Ohne + Akkusativ
+      - name: Mit + Dativ
+  - topic: Das verb 'Werden'
+K6:
+  - topic: 
+    subtopics: 
+      - Indirekte Fragesätze (W-Fragen)
+      - Nebensätze mit 'Ob'
+  - topic: Lokale Präpositionen
+    sections:
+      - name: Präpositionen mit Dativ
+        context: bei, mit, nach, von, zu, aus, seit
+      - name: Präpositionen mit Akkusativ
+        context: durch, für, gegen, ohne, um
